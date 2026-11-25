@@ -22,8 +22,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DocumentReaderSPM",
-            url: "https://repo.zytrust.com/artifactory/zy-mobile-maven/spm/regula/DocumentReader/9.10.7402/DocumentReader-9.10.7402.zip",
-            checksum: "adcc328b0b98031e63cf2d8e1b8324bed4ae2a5475ef35b1dbe652d50b4fad3f"
+            url: "https://repo.zytrust.com/artifactory/zy-mobile-maven/spm/regula/DocumentReader/9.10/DocumentReader.xcframework.zip",
+            checksum: "d46566e21a5991cf13668e808b05c53a246abcf85be8bdeb25f7b291b81b7f4c"
         )
     ]
 )
